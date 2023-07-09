@@ -125,6 +125,13 @@ a:hover {
     margin-left: 30px;
 }
 
+.angular-image {
+    width: 15%;
+    float: left;
+    margin-right: 30px;
+    margin-top: 40px;
+}
+
 .btn {
   position: relative;
   top: 30px;
